@@ -16,7 +16,7 @@
   <a href="#-license">License</a>
 </p>
 
-## ✂️ About the project
+## 📖 About the project
 <h1 align="center">
   <img alt="Screen" src="src/assets/ProffyWebMac.png" width="200px">
   <img alt="Screen" src="src/assets/ProffyApp.png" width="200px">
@@ -59,7 +59,7 @@ Technologies that I used to develop this web client
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/bruno07dev/Proffy.git && cd Proffy
+$ git clone https://github.com/bruno07dev/proffy.git && cd proffy
 ```
 
 **Install dependencies**
@@ -119,14 +119,14 @@ $ yarn mobile start
 # Fork using GitHub official command line
 # If you don't have the GitHub CLI, use the web site to do that.
 
-$ gh repo fork bruno07dev/Proffy
+$ gh repo fork bruno07dev/proffy
 ```
 
 **Follow the steps below**
 
 ```bash
 # Clone your fork
-$ git clone your-fork-url && cd Proffy
+$ git clone your-fork-url && cd proffy
 
 # Create a branch with your feature
 $ git checkout -b my-feature
